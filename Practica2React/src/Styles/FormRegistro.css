@@ -1,0 +1,25 @@
+.register{
+    width: 400px;
+    background-color: black;
+    padding: 30px;
+    border-radius: 10px;
+    font-family: 'calibri';
+    color: rgb(247, 193, 193) ;
+    box-shadow: 7px 13px 37px rgb(65, 62, 62);
+}
+
+.register{
+    margin-left: 400px;
+    text-align: center;
+}
+
+.botonn{
+    border: none;
+    color: black;
+    padding: 6px 10px;
+    cursor: pointer;
+    border-radius: 5px; 
+}
+.registrar{background-color: white}
+.registrar:hover {background: lightpink}
+

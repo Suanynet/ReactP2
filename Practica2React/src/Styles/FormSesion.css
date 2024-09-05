@@ -1,0 +1,24 @@
+.inicio{
+    width: 400px;
+    background-color: black;
+    padding: 30px;
+    border-radius: 10px;
+    font-family: 'calibri';
+    color: rgb(247, 193, 193) ;
+    box-shadow: 7px 13px 37px rgb(65, 62, 62);
+}
+
+.inicio{
+    margin-left: 400px;
+    text-align: center;
+}
+
+.boton{
+    border: none;
+    color: black;
+    padding: 6px 10px;
+    cursor: pointer;
+    border-radius: 5px; 
+}
+.iniciar{background-color: white}
+.iniciar:hover {background: lightpink}
